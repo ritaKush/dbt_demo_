@@ -24,4 +24,5 @@ Tips
 ## DBT SOURCES
 https://docs.getdbt.com/docs/building-a-dbt-project/using-sources
 
-
+## DBT Macros
+https://docs.getdbt.com/docs/building-a-dbt-project/building-models/using-custom-schemas
