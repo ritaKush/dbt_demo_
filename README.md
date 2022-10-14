@@ -31,3 +31,6 @@ For generating schema with custom schema name. Under macro code remove {{ defaul
 
 ## DBT Tests
 https://docs.getdbt.com/docs/build/tests
+
+## DBT Materialization
+https://docs.getdbt.com/docs/build/materializations
