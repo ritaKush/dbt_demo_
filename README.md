@@ -28,3 +28,9 @@ https://docs.getdbt.com/docs/building-a-dbt-project/using-sources
 https://docs.getdbt.com/docs/building-a-dbt-project/building-models/using-custom-schemas
 
 For generating schema with custom schema name. Under macro code remove {{ default_schema }}_ inside else code.
+
+## DBT Tests
+https://docs.getdbt.com/docs/build/tests
+
+## DBT Materialization
+https://docs.getdbt.com/docs/build/materializations
